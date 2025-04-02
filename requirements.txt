@@ -7,7 +7,7 @@ Jinja2==3.1.4
 lxml==5.2.1
 MarkupSafe==2.1.5
 nidaqmx==0.8.0
-numpy==1.21.6
+numpy>=1.22,<1.26 
 opcua==0.98.13
 opencv-python==4.10.0.84
 packaging==24.0
